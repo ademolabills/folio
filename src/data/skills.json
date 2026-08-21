@@ -1,0 +1,6 @@
+[
+  {"category":"Frontend","skills":[{"name":"HTML","level":94},{"name":"CSS","level":91},{"name":"JavaScript","level":90},{"name":"TypeScript","level":84},{"name":"React","level":90},{"name":"Tailwind CSS","level":92}]},
+  {"category":"Backend","skills":[{"name":"Python","level":87},{"name":"Django","level":85},{"name":"REST API","level":89}]},
+  {"category":"Database","skills":[{"name":"MySQL","level":81},{"name":"SQLite","level":84}]},
+  {"category":"Tools","skills":[{"name":"Git","level":89},{"name":"GitHub","level":90},{"name":"VS Code","level":94},{"name":"Vite","level":86},{"name":"Postman","level":83},{"name":"Figma","level":76}]}
+]
